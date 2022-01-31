@@ -3,10 +3,9 @@ A very light waight with 0 dependency , Html table sort
 
 ## Installation
 
-> just include sortable.min.js the document.
+> just include dist/sortable.js the document.
 
 ## Usage
-
 
 <table class="sortable-table">
     <tr>
